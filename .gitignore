@@ -10,3 +10,10 @@ node_modules/
 
 # Next.jsビルド成果物
 .next/
+
+# Pythonキャッシュ
+__pycache__/
+*.pyc
+
+# DBの実データ
+*.db
